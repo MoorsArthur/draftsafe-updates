@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "draftsafe-tools@armain.be": {
+      "updates": [
+        {
+          "version": "0.8.1",
+          "update_link": "https://github.com/MoorsArthur/draftsafe-updates/releases/download/v0.8.1/draftsafe-0.8.1.xpi",
+          "update_hash": "sha256:69d98be47a16d86ff1461c9f5753a5e341303852a068c20e5f36aad661bfe953",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
